@@ -1,4 +1,4 @@
-# RaspBerry-pi-Based-Help-Desk-ChatBot
+# RaspBerry-pi-Based-ChatBot
 A chatbot server application which can be deployed on a LAN environment as a Help desk Bot
 
 PROBLEM THAT I TRIED TO SOLVE :-
